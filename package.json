@@ -1,0 +1,9 @@
+{
+    "name": "zombie_leaks"
+  , "version": "0.0.1"
+  , "private": true
+  , "devDependencies": {
+      "mocha": "1.0.3"
+    , "zombie": "0.13.11"
+  }
+}
