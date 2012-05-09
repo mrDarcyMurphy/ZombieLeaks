@@ -1,4 +1,4 @@
-Zombie leaks variables into the global name space as soon as browser.visit is called.
+Zombie leaks variables into the global name space as soon as browser.visit is called. Refer to issue [#332](https://github.com/iss/zombie/issues/332).
 
 ### Tip
 Install the modules and the latest coffee-script within the zombie module
